@@ -46,7 +46,7 @@ Welcome to TaskPro, a powerful full stack to-do manager application. With TaskPr
 1. Clone this repository:
 
 ```bash 
-git clone https://github.com/MehraDevesh2022/TaskPro.git
+git clone https://github.com/Jatadhar16/TaskManagerApplication
 
 ```
 
@@ -70,6 +70,7 @@ npm start
 ## Contributing
 
 Contributions are always welcome ! add your own features and make a pull request.
+
 
 
 
